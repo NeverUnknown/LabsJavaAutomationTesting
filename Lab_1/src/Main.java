@@ -29,7 +29,6 @@ public class Main {
     }
 
     //Ex1
-
     /**
      * @param d double
      * @return double
@@ -39,7 +38,6 @@ public class Main {
     }
 
     //Ex2
-
     /**
      * @param num int
      */
@@ -48,7 +46,6 @@ public class Main {
     }
 
     //Ex3
-
     /**
      * @param s String
      */
@@ -66,7 +63,6 @@ public class Main {
     }
 
     //Ex4
-
     /**
      * @param num int
      * @return int
